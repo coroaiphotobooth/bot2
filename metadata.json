@@ -1,0 +1,7 @@
+{
+  "name": "FINAL PHOTOBOOTH update all VERTEX",
+  "description": "semua menggunakan vertex",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
